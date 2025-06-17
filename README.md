@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.adib-f.my.id/"><img src="https://img.shields.io/badge/Portfolio-adib--website-blue?style=for-the-badge&logo=vercel" alt="Portfolio Website"></a>
-  <a href="www.linkedin.com/in/adib-fakhri"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/adib-fakhri"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/adib-f"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
@@ -69,7 +69,7 @@
 ## 📫 Let's Connect!
 
 Feel free to reach out for collaborations, technical inquiries, or just a friendly chat!
-- 💼 LinkedIn: [Muhammad Adib Fakhri Siregar](www.linkedin.com/in/adib-fakhri)
+- 💼 LinkedIn: [Muhammad Adib Fakhri Siregar](https://www.linkedin.com/in/adib-fakhri)
 - 👨‍💻 GitHub: [Adib Fakhri](https://github.com/adib-f)
 - 📧 Email: fakhrimuhammadadib@email.com
 
